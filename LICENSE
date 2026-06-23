@@ -1,6 +1,8 @@
-MIT License with QxBin Commercial Terms
+MIT License
 
 Copyright (c) 2026 Rupesh Malpani / pikk.company
+
+This license is granted strictly for testing, experimentation, and evaluation purposes.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,12 +14,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-**Commercial Use Addendum (same as QxBin):**
-If you use this software (or derivatives) to build, sell, or operate commercial
-tools, products, APIs, or services, a 51% revenue share of the attributable
-commercial revenue is requested. Enterprise / large-scale partnerships are
-negotiable. Contact @rupeshmalpani for details.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -25,3 +21,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Usage & Commercial Terms
+
+- Free to use, share, and build upon when making your own software or improving 
+  internal systems and processes inside your organisation using your own 
+  development resources.
+
+- A 51% revenue share with the copyright holders applies when you create and 
+  sell a commercial tool, product, or API (whether for commercial customers or 
+  personal/end-user sale). 
+
+Enterprise-scale deployments and strategic partnerships are negotiable — 
+reach out to @rupeshmalpani to align terms and move fast.
