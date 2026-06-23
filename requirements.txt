@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.40.0
+peft>=0.10.0
+accelerate
+numpy
+numba
+# QxBin - install from your local clone or git:
+# pip install -e ../qxbin
+# or when published: git+https://github.com/pikk-qxbin/qxbin.git
