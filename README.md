@@ -8,6 +8,10 @@ The result? A remixed Gemma that generates with richer uncertainty modeling, mor
 
 Built by Rupesh Malpani | pikk.company
 
+**🚀 Official Default License for All QxBin Work**
+
+This refined custom MIT license is the **default standard** for every QxBin project, kernel, edge implementation, enhancement, simulation, Gemma remix, and future work by Rupesh Malpani / pikk.company.
+
 ## Why This Matters
 
 Gemma is an outstanding open model family (strong reasoning, efficient, great instruction following).  
@@ -98,9 +102,18 @@ Pull requests and wild experiments welcome. This is early-stage frontier work.
 
 ## License
 
-Custom MIT-style license (same spirit as QxBin). Free for research, personal use, and internal experimentation. Commercial use / API products require discussion (51% revenue share model for derivative tools, negotiable for enterprise).
+![License](https://img.shields.io/badge/License-Custom%20MIT-blue)
 
-See `LICENSE` for details. Contact @rupeshmalpani on X for partnerships.
+This repository is released under the **official default custom MIT license** for all QxBin work (including Gemma remixes) by Rupesh Malpani / pikk.company.
+
+**Key terms:**
+- **Free** for testing, experimentation, internal organizational use, and building your own software or improvements using your development resources.
+- **51% revenue share** with the copyright holders applies when you create and sell a commercial tool, product, or API (whether for commercial customers or personal/end users).
+- Enterprise-scale deployments and strategic partnerships are fully **negotiable** — reach out to [@rupeshmalpani](https://x.com/rupeshmalpani).
+
+See the full [LICENSE](LICENSE) file for complete details.
+
+Part of the pikk-qxbin vision: Democratizing advanced compute. Ship fast. Align incentives for long-term progress.
 
 ## Acknowledgments
 
