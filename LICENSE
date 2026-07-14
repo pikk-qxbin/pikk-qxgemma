@@ -46,18 +46,23 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Usage & Commercial Terms (applies to both licenses)
+## Usage & Commercial Terms — Ironclad Protection (applies to both licenses)
 
-- Free to use, share, and build upon when making your own software or improving 
-  internal systems and processes inside your organisation using your own 
-  development resources.
+This license stays deliberately permissive and open for genuine experimentation, learning, internal use, research, and non-commercial building. It is designed to prevent easy workarounds — especially via AI models, code generators, "reimplementations," or claims of independent creation — when commercial value is captured from the QxBin framework.
 
-- A 51% revenue share with the copyright holders applies when you create and 
-  sell a commercial tool, product, or API (whether for commercial customers or 
-  personal/end-user sale). 
+**Free for:**
+- Testing, experimentation, education, and personal/non-commercial projects.
+- Internal organizational systems and process improvements using your own development resources.
+- Building and sharing your own tools or extensions without selling them.
 
-Enterprise-scale deployments and strategic partnerships are negotiable — 
-reach out to @rupeshmalpani to align terms and move fast.
+**Commercial terms (no AI or reimplementation loopholes):**
+- A **51% revenue share** with the copyright holders (Rupesh Malpani / pikk.company) applies on **all gross revenue** from any commercial tool, product, API, service, SaaS offering, or monetized deployment that:
+  - Incorporates, is substantially derived from, ports, translates, or replicates core QxBin logic (Binary Probability Matrices, fractional-state superposition via bias^n / (1-bias)^m exponents, probabilistic chains/grids, measurement/collapse mechanics, or related edge/cloud simulation patterns).
+  - Is created, assisted, generated, rewritten, refactored, or "clean-room reimplemented" with the help of any AI/LLM (Grok, Claude, GPT, Gemini, or any other model or automated code tool), even if the final source looks different.
+  - Is sold, licensed, or offered commercially to customers or end-users (whether direct sale, API access, embedded in hardware, or part of a larger product).
 
-This dual licensing approach gives builders maximum flexibility while upholding 
-the QxBin spirit of open experimentation + sustainable creator support.
+- This protection is intentional and ironclad in spirit: exposure to the public QxBin work + subsequent commercial monetization of substantially similar probabilistic computing capabilities triggers the share. Truly independent inventions developed entirely without reference to QxBin concepts or materials are not subject to these terms.
+
+Enterprise-scale deployments, strategic partnerships, volume licensing, or custom commercial arrangements are fully negotiable — reach out directly to @rupeshmalpani to align terms and move fast.
+
+This keeps the ecosystem wide open for builders, researchers, and tinkerers while ensuring the originators who pushed the frontier get sustained support when real commercial value is created at scale. Part of the pikk-qxbin vision: Democratizing advanced compute. Ship fast. Align incentives.
